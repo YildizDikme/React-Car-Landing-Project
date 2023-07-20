@@ -2,7 +2,7 @@
 
 Bu proje, bir araba şirketi için hazırlanan basit bir landing page örneğidir. Bu proje Next.js ile oluşturulmuştur ve React-multi-carousel kütüphanesi kullanılarak slayt gösterisi şeklinde sunulmasını sağlamaktadır. Ayrıca, header kısmında responsive yapıyı yönetmek için state yönetimi kullanılmıştır.
 
-<img width="547" alt="image" src="https://github.com/YildizDikme/React-Car-Landing-Project/assets/103577317/8027272e-1208-435e-8a1f-28424be22ddd">
+![image](https://github.com/YildizDikme/React-Car-Landing-Project/assets/103577317/b8bed2dd-99f3-4df1-9451-c17da99b0128)
 
 
 ## Kurulum
